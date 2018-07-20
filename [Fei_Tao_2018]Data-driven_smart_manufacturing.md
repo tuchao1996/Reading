@@ -4,7 +4,7 @@
 2. 提出数据驱动的**智能制造架构**，及其应用的六个阶段。
 3. **硅片制造**为案例分析。
 
-# 1. Abstract
+# 1. 摘要
 
 **互联网技术，物联网，云计算，大数据和人工智能**的进步对制造业产生了深远的影响。 制造业收集的数据量不断增长。大数据为今天的制造模式转变为智能制造提供了巨大的机会。 大数据使公司能够采用**数据驱动的策略**来提高竞争力。在本文中，
 
@@ -13,7 +13,7 @@
 3. 大数据视角由本文提出的概念框架支持。 
 4. 提供典型应用场景
 
-# 6. Conclusion
+# 6. 结论
 本文在三个视角总结智能制造：
 1. 历史视角。制造数据发展由4个阶段组成：手工时代、机器时代、信息时代、大数据时代。
 2. 发展视角。大数据的生命周期由以下阶段组成：数据生成、收集、传送、收藏、集成、处理、分析、可视化和应用。
@@ -31,8 +31,8 @@
 * 5部分：硅片制造案例。
 
 # 2. Historical perspectives on manufacturing data
-（如图1）
-![](F:/GitRepository/ReadingSentiment/[Image_Fei_Tao_2018]Data-driven_smart_manufacturing/fig1.png)
+（如图1.制造数据的发展）
+![](http://github.com/tuchao1996/Reading/raw/master/[Fei_Tao_2018]Data-driven_smart_manufacturing/fig1.png)
 
 随着许多IT技术应用在制造业，很多先进的制造技术被提出，如computer integratedmanufacturing (CIM), computer aided design (CAD), manufactur-ing execution system (MES), computer aided manufacturing (CAM),enterprise resource planning (ERP), and networked manufacturing(NM)。
 最近技术如**物联网，云计算，大数据分析和AI**促进一系列新的制造模型，如制造网格、信息物理制造系统、云制造等等，因此，制造数据变得更加重要。
