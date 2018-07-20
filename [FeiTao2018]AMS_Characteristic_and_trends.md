@@ -14,7 +14,9 @@
 
 # AMS的发展过程
 
-如图1
+(如图1,AMS的发展进程)
+
+![](https://github.com/tuchao1996/Reading/raw/master/[FeiTao2018]AMS_Characteristic_and_trends/fig1.png)
 
 * 手工制造
 * 批量生产
@@ -27,7 +29,9 @@
 
 > 资源共享能调整和平衡去中心化的制造资源和能力，提高资源利用效率。
 
-如图2
+(如图2,制造资源共享的发展进程)
+
+![](https://github.com/tuchao1996/Reading/raw/master/[FeiTao2018]AMS_Characteristic_and_trends/fig2.png)
 
 * 公司内部的资源共享
 * 公司之间的资源共享
@@ -37,20 +41,27 @@
  
 ## 2. 价值创造
 
+（如图3,价值创造载体的变化）
+![](https://github.com/tuchao1996/Reading/raw/master/[FeiTao2018]AMS_Characteristic_and_trends/fig3.png)
+
 价值创造的改变有三处地方：
  
-* 价值创造载体。（如图3）
+* 价值创造载体。
 * 价值评估标准。
 * 价值链组成和公司协调。
 
 ## 3. 用户参与层次
-（如图4）
+（如图4,用户参与层次的变化）
+
+![](https://github.com/tuchao1996/Reading/raw/master/[FeiTao2018]AMS_Characteristic_and_trends/fig4.png)
 
 **从购买到各个环节参与**
 
 # 云技术和云制造驱动AMS的社会化过程
 
-（如图5）云制造的架构
+（如图5,云制造的架构)
+
+![](https://github.com/tuchao1996/Reading/raw/master/[FeiTao2018]AMS_Characteristic_and_trends/fig5.png)
 
 云技术在智能制造中发挥巨大作用。
 
