@@ -32,7 +32,8 @@
 
 # 2. Historical perspectives on manufacturing data
 （如图1.制造数据的发展）
-![](http://github.com/tuchao1996/Reading/raw/master/[Fei_Tao_2018]Data-driven_smart_manufacturing/fig1.png)
+
+![](https://github.com/tuchao1996/Reading/raw/master/[Fei_Tao_2018]Data-driven_smart_manufacturing/fig1.png)
 
 随着许多IT技术应用在制造业，很多先进的制造技术被提出，如computer integratedmanufacturing (CIM), computer aided design (CAD), manufactur-ing execution system (MES), computer aided manufacturing (CAM),enterprise resource planning (ERP), and networked manufacturing(NM)。
 最近技术如**物联网，云计算，大数据分析和AI**促进一系列新的制造模型，如制造网格、信息物理制造系统、云制造等等，因此，制造数据变得更加重要。
@@ -59,7 +60,9 @@
     * 政府开放数据库的公共数据。
 
 # 3. life cycle of manufacturing data
-（如图2）
+（如图2,制造数据生命周期）
+
+![](https://github.com/tuchao1996/Reading/raw/master/[Fei_Tao_2018]Data-driven_smart_manufacturing/fig2.png)
 
 一个典型制造数据的生命周期包含以下阶段：
 1. 数据来源
@@ -74,13 +77,21 @@
 
 制造公司利用大数据分析提高制造过程，因此提高制造的灵活性和智能性。
 
-数据驱动智能制造架构由四个模块组成：（如图3）
+（如图3,数据驱动智能制造架构）
+
+![](https://github.com/tuchao1996/Reading/raw/master/[Fei_Tao_2018]Data-driven_smart_manufacturing/fig3.png)
+
+数据驱动智能制造架构由四个模块组成：
 1. 制造模块。包含许多制造活动。
 2. 数据驱动模块。在整个制造生命周期，为智能制造提供驱动力。
 3. 实时监督模块。确保产品质量进行监督。
 4. 问题处理模块。识别和预测可能出现的问题（如设备损坏、产品质量等）。
 
-数据驱动的智能制造的特征：（如图4）
+（如图4,智能制造特征和应用）
+
+![](https://github.com/tuchao1996/Reading/raw/master/[Fei_Tao_2018]Data-driven_smart_manufacturing/fig4.png)
+
+数据驱动的智能制造的特征：
 1. 个性化制造
 2. 自我组织
 3. 自我执行
@@ -88,7 +99,9 @@
 5. 自我学习和自我适应
 
 ## 4.2 data-driven smart manufacturing application
-（如图5）
+（如图5,智能制造应用）
+
+![](https://github.com/tuchao1996/Reading/raw/master/[Fei_Tao_2018]Data-driven_smart_manufacturing/fig5.png)
 
 制造业通过协调企业资源，将原材料转化为有价值的服务，应用服务如下：
 1. 智能设计
