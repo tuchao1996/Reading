@@ -22,3 +22,10 @@ if any suggestion you want to give me, welcome to contact me!
 
 # interesting picture
 
+- Linux shell command
+
+![](https://github.com/tuchao1996/Reading/blob/master/figures/Linux_command.png)
+
+- shortcut for vscode in linux
+
+![](https://github.com/tuchao1996/Reading/blob/master/figures/keyboard-shortcuts-linux.png)
