@@ -29,3 +29,8 @@ if any suggestion you want to give me, welcome to contact me!
 - shortcut for vscode in linux
 
 ![](https://github.com/tuchao1996/Reading/blob/master/figures/keyboard-shortcuts-linux.png)
+
+- python3 cheatSheet
+
+![](https://github.com/tuchao1996/Reading/blob/master/figures/python3(1).png)
+![](https://github.com/tuchao1996/Reading/blob/master/figures/python3(2).png)
